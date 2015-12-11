@@ -37,7 +37,9 @@ var handlerToEvent = {
 	onSwipe: 'swipe',
 	onPress: 'press',
 	onPressUp: 'pressup',
+	onPinchStart: 'pinchstart',
 	onPinch: 'pinch',
+	onPinchEnd: 'pinchend',
 	onPinchIn: 'pinchin',
 	onPinchOut: 'pinchout',
 	onRotate: 'rotate'
